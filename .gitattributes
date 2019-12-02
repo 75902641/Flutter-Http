@@ -1,4 +1,4 @@
 *.md linguist-language=Dart
 *.png linguist-language=Dart
 *.java linguist-language=Dart
-*.Dart linguist-language=Dart
+*.dart linguist-language=Dart
